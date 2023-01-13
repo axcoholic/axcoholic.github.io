@@ -1,1 +1,1 @@
-the quick brown fart jumped over the small brown turd
+echo the quick brown fart jumped over the small brown turd
